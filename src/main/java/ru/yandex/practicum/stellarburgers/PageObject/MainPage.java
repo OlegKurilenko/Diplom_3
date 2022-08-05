@@ -1,4 +1,4 @@
-package ru.yandex.practicum.stellarburgers;
+package ru.yandex.practicum.stellarburgers.PageObject;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;

@@ -5,8 +5,10 @@ import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import ru.yandex.practicum.stellarburgers.PageObject.LoginPage;
+import ru.yandex.practicum.stellarburgers.PageObject.MainPage;
+import ru.yandex.practicum.stellarburgers.PageObject.ProfilePage;
+import ru.yandex.practicum.stellarburgers.PageObject.RegisterPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.WebDriverRunner.setWebDriver;

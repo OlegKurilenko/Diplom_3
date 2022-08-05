@@ -1,4 +1,4 @@
-package ru.yandex.practicum.stellarburgers;
+package ru.yandex.practicum.stellarburgers.PageObject;
 
 import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.support.FindBy;
